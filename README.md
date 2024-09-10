@@ -63,7 +63,7 @@ This macro is to convert an unsorted, unformatted Excel data report into a sorte
 
   * The Options… button provides an option to assign a key shortcut, so that in the future, instead of browsing to View, Macros, View Macros, we can just do the key shortcut combination to run the same macro.
 
-<img src="https://github.com/user-attachments/assets/de6ca386-1c0d-47b9-98c7-12aece59c964" alt="Run Macro option key shortcut" />
+<img src="https://github.com/user-attachments/assets/b1a35d17-8696-421a-ae61-c07a29ac0fc5" alt="Run Macro option key shortcut" />
 
 <p>7.	Result of the macro. Result is sorted by the first column and other formats as programmed in the macro:</p>
 
