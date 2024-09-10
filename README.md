@@ -52,7 +52,7 @@ This macro is to convert an unsorted, unformatted Excel data report into a sorte
 
     - Next time we open the .xlsm file in Macros folder, there will not be a tooltip message from Excel 
 
-<p>4.	Next, open the unsorted, unformatted data file. In my case it is “sample initial.xls”:</p>
+<p>4.	Next, open the unsorted, unformatted data file. In my case it is “sample initial.xls”.  This is an export from my company's internal, older software:</p>
 <img src="https://github.com/user-attachments/assets/bbbb984d-e53e-4ce9-b3eb-3d11490efe46" alt="Open the sample" />
 
 <p>5.	To run the macro, go to View, Macros, View Macros…:</p>
